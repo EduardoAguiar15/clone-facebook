@@ -1,4 +1,4 @@
-// styles.tsx
+
 import { StyleSheet } from 'react-native';
 
 export const styles = StyleSheet.create({
@@ -39,7 +39,7 @@ export const styles = StyleSheet.create({
                 position: "absolute",
                 left: 290,
         },
-        post:{
+        post: {
                 fontSize: 13,
                 color: "#222121",
                 lineHeight: 16,
@@ -50,22 +50,22 @@ export const styles = StyleSheet.create({
                 width: "100%"
 
         },
-        foto:{
+        foto: {
                 marginTop: 9,
                 width: "100%",
                 height: 400,
         },
-        footer:{
+        footer: {
                 paddingTop: 5,
                 paddingBottom: 5,
                 paddingRight: 15
         },
-        footer2:{
+        footer2: {
                 flexDirection: "row",
                 justifyContent: "space-between",
                 paddingTop: 10,
         },
-        like:{
+        like: {
                 backgroundColor: "#1878f3",
                 width: 20,
                 height: 20,
@@ -74,16 +74,16 @@ export const styles = StyleSheet.create({
                 justifyContent: "center",
                 marginRight: 6
         },
-        textFooter:{
+        textFooter: {
                 fontSize: 13,
                 color: "#424040"
         },
-        options:{
+        options: {
                 width: 100,
                 height: 1,
                 backgroundColor: "#F9F9F9"
         },
-        menuFooter:{
+        menuFooter: {
                 flexDirection: "row",
                 justifyContent: "space-between",
                 paddingTop: 10,
@@ -91,13 +91,13 @@ export const styles = StyleSheet.create({
                 paddingRight: 15,
                 paddingLeft: 15,
         },
-        button:{
+        button: {
                 flexDirection: "row",
         },
-        icon:{
+        icon: {
                 marginRight: 6
         },
-        text:{
+        text: {
                 fontSize: 12,
                 color: "#424040",
         }

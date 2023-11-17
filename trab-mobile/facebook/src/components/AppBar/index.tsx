@@ -9,10 +9,10 @@ export default function AppText() {
             <View style={styles.text}>
                 <Avatar source={require('../../assets/foto-perfil.jpg')} />
                 <TextInput style={styles.input}
-                placeholderTextColor='black'
-				placeholder="No que você está pensando?"/>
+                    placeholderTextColor='black'
+                    placeholder="No que você está pensando?" />
             </View>
-                <Divisor/>
+            <Divisor />
         </View>
     );
 }

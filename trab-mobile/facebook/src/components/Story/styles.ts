@@ -1,15 +1,15 @@
 import { StyleSheet } from "react-native";
 
 export const styles = StyleSheet.create({
-    container: {
+  container: {
     height: 200,
     marginBottom: 10,
     flexDirection: 'row',
     alignItems: 'center',
     marginLeft: 5,
     marginRight: 5,
-},
-card: {
+  },
+  card: {
     width: 16,
     height: 100,
     position: 'relative',
@@ -22,7 +22,22 @@ card: {
   image: {
     width: 100,
     height: 200,
-    resizeMode: 'contain',
+    resizeMode: "cover",
+    borderRadius: 6,
+    overflow: "hidden",
+  },
+  overlay: {
+    position: "absolute",
+    bottom: 10,
+    left: 0,
+    right: 0,
+    backgroundColor: "transparent",
+    alignItems: "center",
+  },
+  name: {
+    fontSize: 12,
+    fontWeight: "bold",
+    color: "white",
   },
   adicionarStory: {
     width: 100,

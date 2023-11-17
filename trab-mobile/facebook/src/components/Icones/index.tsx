@@ -1,8 +1,6 @@
 import { View, Image } from 'react-native';
-import { Feather, MaterialCommunityIcons, Ionicons } from '@expo/vector-icons'
 import { styles } from "./styles"
-import AppText from '../../components/AppBar/index';
-import React, { useState } from "react";
+import React from "react";
 
 export default function Icons() {
 

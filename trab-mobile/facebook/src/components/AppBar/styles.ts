@@ -6,7 +6,7 @@ export const styles = StyleSheet.create({
         height: 80,
         borderColor: "black",
     },
-    text:{
+    text: {
         flexDirection: "row",
         backgroundColor: "#FFFFFF",
         width: "100%",
@@ -17,7 +17,7 @@ export const styles = StyleSheet.create({
         alignItems: "center",
         marginBottom: 13,
     },
-    input:{
+    input: {
         height: 37,
         width: "70%",
         paddingTop: 0,

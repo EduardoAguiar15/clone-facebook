@@ -27,8 +27,8 @@ export const styles = StyleSheet.create({
         alignItems: "center",
         justifyContent: "center",
         marginLeft: 16,
-        size:29,
-        color:'black'
+        size: 29,
+        color: 'black'
     },
     icons: {
         flexDirection: 'row',
