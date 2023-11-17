@@ -3,8 +3,8 @@
 
 # Pagina de cadastro do facebook
 
-![WhatsApp Image 2023-11-16 at 22 17 32](https://github.com/EduardoAguiar15/clone-facebook/assets/102193278/a9e06734-f937-4d86-a70f-47f4ee9477df) ![WhatsApp Image 2023-11-16 at 22 17 31](https://github.com/EduardoAguiar15/clone-facebook/assets/102193278/e4fb9dfc-44a3-42c2-a6e1-da4ee8faf631) 
+![Original](https://github.com/EduardoAguiar15/clone-facebook/assets/102193278/d2f94ee4-3d5f-4c0f-9194-0141e9ebd097)
 
 # Pagina do feed do facebook
 
-![WhatsApp Image 2023-11-16 at 22 27 22](https://github.com/EduardoAguiar15/clone-facebook/assets/102193278/1c0c5621-392e-483a-bd03-7eb3c2109cea) ![WhatsApp Image 2023-11-16 at 22 27 21](https://github.com/EduardoAguiar15/clone-facebook/assets/102193278/a788cad5-a689-43dc-8299-09ece1f93e91)
+![Original2](https://github.com/EduardoAguiar15/clone-facebook/assets/102193278/5cffe718-88ce-4377-bcb2-9c3e71199b8c)
